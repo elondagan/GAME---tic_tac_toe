@@ -8,8 +8,8 @@ Settings:
 
 
 In a player turn:
-'-1' : undo move
-'x, y' : mark board location (x,y)
+- '-1' : undo move
+- 'x, y' : mark board location (x,y)
 
 End of the game: 
 game is ended when either:
