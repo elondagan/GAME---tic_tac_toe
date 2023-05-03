@@ -14,4 +14,4 @@ In a player turn:
 End of the game: 
 game is ended when either:
 - a player reach a row/column/diagonal of symbols in the 'board size' input lenght
-- the the board is full 
+- the the board is full  
